@@ -623,6 +623,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -636,10 +637,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 271fa8d5-27d9-4e3d-a3c8-48ef11427b05
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: SolarChaos
+  organizationId: asvencionis51
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
